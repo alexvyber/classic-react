@@ -1,0 +1,3 @@
+[submodule "react-course"]
+	path = react-course
+	url = https://github.com/uidotdev/react-course.git
